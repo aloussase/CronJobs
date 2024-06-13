@@ -7,3 +7,4 @@ Included programs are:
 
 - [Healthcheck](./Healthcheck/) check the status of a web service
 - [Wallpaper](./Wallpaper/) set a random wallpaper
+- [Reminders](./Reminders) send a reminder to someone over email
